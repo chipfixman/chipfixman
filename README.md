@@ -27,4 +27,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Current Projects
 
-- **[garmin watchface](https://github.com/chipfixman/ciscohock_demo1)** - For My Garmin Finex7 watch face
+- **[garmin watchface](https://github.com/chipfixman/ciscohock_demo1)** - For my garmin finex7 watch face
+- **[stc89c52 tutorial code ](https://github.com/chipfixman/mcs51codebase)** - For learning stc89c52

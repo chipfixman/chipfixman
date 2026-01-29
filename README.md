@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 ## What I'm Doing
 
 - **打工** - 解决温饱问题
-- **学习 FIRE 运动** - 掌握足够的知识、为后续职业生涯做好知识和生产资料的准备
+- **学习 FIRE 运动** - 掌握足够的知识、为后续职业生涯做好知识和生产资料的准备 [wikipedia FIRE运动](https://zh.wikipedia.org/wiki/FIRE%E8%BF%90%E5%8A%A8)
 - **Rapid prototyping** - Full apps in days, not months
 - **个人工作室** - Find me at zhiyuandev.com](https://www.zhiyuandev.com)
 
